@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.DataAccess\bin\Debug\net6.0\System.DataAccess.deps.json
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.DataAccess\bin\Debug\net6.0\System.DataAccess.dll
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.DataAccess\bin\Debug\net6.0\System.DataAccess.pdb
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.DataAccess\obj\Debug\net6.0\System.DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.DataAccess\obj\Debug\net6.0\System.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.DataAccess\obj\Debug\net6.0\System.DataAccess.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.DataAccess\obj\Debug\net6.0\System.DataAccess.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.DataAccess\obj\Debug\net6.0\System.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.DataAccess\obj\Debug\net6.0\System.DataAccess.dll
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.DataAccess\obj\Debug\net6.0\refint\System.DataAccess.dll
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.DataAccess\obj\Debug\net6.0\System.DataAccess.pdb
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.DataAccess\obj\Debug\net6.0\ref\System.DataAccess.dll
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.DataAccess\bin\Debug\net6.0\System.Entities.dll
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.DataAccess\bin\Debug\net6.0\System.Entities.pdb
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.DataAccess\obj\Debug\net6.0\System.DataAccess.csproj.CopyComplete

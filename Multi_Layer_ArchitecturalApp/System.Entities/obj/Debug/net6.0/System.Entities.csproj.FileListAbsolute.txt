@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.Entities\bin\Debug\net6.0\System.Entities.deps.json
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.Entities\bin\Debug\net6.0\System.Entities.dll
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.Entities\bin\Debug\net6.0\System.Entities.pdb
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.Entities\obj\Debug\net6.0\System.Entities.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.Entities\obj\Debug\net6.0\System.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.Entities\obj\Debug\net6.0\System.Entities.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.Entities\obj\Debug\net6.0\System.Entities.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.Entities\obj\Debug\net6.0\System.Entities.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.Entities\obj\Debug\net6.0\System.Entities.dll
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.Entities\obj\Debug\net6.0\refint\System.Entities.dll
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.Entities\obj\Debug\net6.0\System.Entities.pdb
+C:\Users\DELL\source\repos\Multi_Layer_ArchitecturalApp\System.Entities\obj\Debug\net6.0\ref\System.Entities.dll
